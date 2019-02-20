@@ -75,7 +75,8 @@
     "noImageResize": "true",
     "google-analytics": "",
     "cookiesAlert": "",
-    "gdpr": ""
+    "gdpr": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
